@@ -1,8 +1,8 @@
 # MageticDashboard
-Admin dashboard UI/UX 
+Admin dashboard UI/UX;
 
-Adaptive layout for the admin dashboard, which may be used in custom CRM
+Adaptive layout for the admin dashboard, which may be used in custom CRM;
 
-Pure HTML and CSS
+Technology: HTML/CSS, JS;
 
-Usage of jQuery in the project
+Third-party libraries: jQuery;
